@@ -10,6 +10,7 @@ __翻译主要是对plugin.yml里面的指令帮助插件名称和介绍、语�
  + 目前已经翻译的插件:
    +  [DiabloDrops](https://github.com/Nekocraft/DiabloDrops) by whitegem
    +  [VoxelGuest](https://github.com/Nekocraft/VoxelGuest) by [gjz010](https://github.com/gjz010)
+   +  [SimpleClans2](https://github.com/Nekocraft/SimpleClans2) by whitegem
  
 其余均为未翻译，请到[版本库](https://github.com/Nekocraft)查找。Fork并翻译后请提交Pull Requset
 
