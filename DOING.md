@@ -1,4 +1,5 @@
 DOING
 =======================
 
-此文件记录比较大的坑的执行人员，避免多个人重复做同一项目。
+DOING记录现在转移到[Issues](https://github.com/Nekocraft/TODO/issues)中
+在工作的时候直接po一个Issue就可以了
